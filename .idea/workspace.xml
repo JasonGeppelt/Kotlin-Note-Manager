@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d0f5743-3739-4d01-9d00-c9ad79b52848" name="Changes" comment="finished module1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="863bd1ba-cf97-44b7-ab8b-597cf18b2184" />
+        <option name="url" value="https://github.com/JasonGeppelt/KotlinNoteManager.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -37,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "G:/My Drive/School/23 Fall/cse310_appliedprogramming/KotlinNoteManager",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +72,7 @@
       <updated>1696131749226</updated>
       <workItem from="1696131750227" duration="5503000" />
       <workItem from="1696137298305" duration="20000" />
+      <workItem from="1696137593492" duration="1279000" />
     </task>
     <task id="LOCAL-00001" summary="finished module1">
       <option name="closed" value="true" />
@@ -65,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696137135867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished module1">
+      <option name="closed" value="true" />
+      <created>1696137624682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696137624682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
